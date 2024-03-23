@@ -1,0 +1,5 @@
+class welcome{
+	public static void main (String[] ar){
+		System.out.println("add"+ar[0]);
+	}
+}
